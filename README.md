@@ -1,13 +1,13 @@
 # Sokilpack.com
 
-Промо-сайт для упаковочного бізнесу в Україні.
+Premium landing page for packaging business in Ukraine.
 
-Цей проект містить стартову посадкову сторінку для продажу упаковки для малого та середнього бізнесу, з акцентом на картонну упаковку, крафт-пакети, подарункову упаковку та брендировану продукцію.
+The project is a modern sales website for B2B packaging products: cardboard boxes, kraft bags, gift packaging, custom labels, and branded packaging solutions for local businesses and online stores.
 
-## Структура
-- `index.html` — посадкова сторінка
-- `styles.css` — стилізація та адаптивний дизайн
-- `script.js` — поведінка сайту та форма заявки
+## Included
+- `index.html` — premium landing page
+- `styles.css` — branded premium styling and responsive layout
+- `script.js` — interactive UI and contact form behavior
 
-## Запуск
-Відкрити `index.html` у браузері або розгорнути на GitHub Pages / Netlify / Vercel.
+## Use
+Open `index.html` directly in a browser or deploy via GitHub Pages, Netlify, or Vercel.
