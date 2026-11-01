@@ -1,13 +1,19 @@
 # Sokilpack.com
 
-Premium landing page for packaging business in Ukraine.
+SEO-oriented website structure for a packaging business in Ukraine.
 
-The project is a modern sales website for B2B packaging products: cardboard boxes, kraft bags, gift packaging, custom labels, and branded packaging solutions for local businesses and online stores.
+## Structure
+- `index.html` — main landing page
+- `catalog.html` — product category overview
+- `products/` — individual product pages
+  - `kartonni-korobki.html`
+  - `kraft-pakety.html`
+  - `podarunkova-upakovka.html`
+  - `etyketky.html`
+- `robots.txt` — crawler instructions
+- `sitemap.xml` — sitemap for SEO
+- `styles.css` — styles
+- `script.js` — form handling
 
-## Included
-- `index.html` — premium landing page
-- `styles.css` — branded premium styling and responsive layout
-- `script.js` — interactive UI and contact form behavior
-
-## Use
-Open `index.html` directly in a browser or deploy via GitHub Pages, Netlify, or Vercel.
+## Launch
+Open `index.html` in the browser or deploy to Netlify / Vercel / GitHub Pages.
