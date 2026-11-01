@@ -125,7 +125,7 @@ h3 { font-size: 1.45rem; }
 .section-head { max-width: 700px; margin-bottom: 42px; }
 .features-grid, .product-grid, .why-grid, .steps-grid, .pricing-grid { display: grid; gap: 24px; }
 .features-grid { grid-template-columns: repeat(4, minmax(0,1fr)); }
-.feature-card, .product-card, .why-card, .step, .price-card, .faq-item { background: rgba(255,255,255,0.82); border: 1px solid var(--border); border-radius: 26px; box-shadow: 0 14px 32px rgba(14,20,18,0.03); }
+.feature-card, .product-card, .why-card, .step, .price-card { background: rgba(255,255,255,0.82); border: 1px solid var(--border); border-radius: 26px; box-shadow: 0 14px 32px rgba(14,20,18,0.03); }
 .feature-card { padding: 28px 22px; }
 .icon {
   width: 58px; height: 58px; display: flex; align-items: center; justify-content: center; border-radius: 16px; margin-bottom: 16px;
